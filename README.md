@@ -1,3 +1,1 @@
-# mc-server-start
-
-Java micro-service for starting a Minecraft server.
+Commit to the Artic Code Vault! 1000 YEARS ARCTIC CODE VAULT, MORTY!!
